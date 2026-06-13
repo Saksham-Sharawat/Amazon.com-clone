@@ -16,7 +16,7 @@ A responsive, frontend-only clone of the Amazon.com homepage built entirely with
 
 ## 📷 Screenshots
 
-*(You can add screenshots of your clone here)*
+![Amazon.com website screenshot](images/website-screenshots.png)
 
 ## 💡 What I Learned
 
